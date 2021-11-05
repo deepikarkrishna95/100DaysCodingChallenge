@@ -1,0 +1,22 @@
+class Solution {
+public:
+    bool isPalindrome(int x) {
+        unsigned long num = 0;
+        int oldnum = x;
+        if(x < 0) return false;
+		
+            while(x){            
+			int newNum = 0;			
+            newNum = x % 10; 
+			num = num * 10 + newNum;
+           
+            x = x/10;
+        } 
+        
+		if((num == oldnum) && (oldnum >= 0))
+            return true;
+        else 
+            return false;
+        
+    }
+};
