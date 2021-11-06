@@ -8,3 +8,6 @@ https://leetcode.com/problems/add-two-numbers/
 
 ## Day 3
 https://leetcode.com/problems/palindrome-number/
+
+## Day 4
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
