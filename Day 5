@@ -5,7 +5,7 @@ int arraysz = strs.size();
 	string s1 = strs[0];
 	string res;
 	string prev;
-	vector<string>resdata;
+	
 	if(strs.size() == 1)
 		return strs[0];
 
