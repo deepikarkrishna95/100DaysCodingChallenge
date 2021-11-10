@@ -11,3 +11,6 @@ https://leetcode.com/problems/palindrome-number/
 
 ## Day 4
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+## Day 5
+https://leetcode.com/problems/longest-common-prefix/
