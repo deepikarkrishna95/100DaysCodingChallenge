@@ -14,3 +14,6 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 ## Day 5
 https://leetcode.com/problems/longest-common-prefix/
+
+## Day 6
+https://leetcode.com/problems/reverse-integer/
