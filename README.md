@@ -17,3 +17,6 @@ https://leetcode.com/problems/longest-common-prefix/
 
 ## Day 6
 https://leetcode.com/problems/reverse-integer/
+
+## Day 7
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
