@@ -20,3 +20,6 @@ https://leetcode.com/problems/reverse-integer/
 
 ## Day 7
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+## Day 8
+https://leetcode.com/problems/remove-element/
