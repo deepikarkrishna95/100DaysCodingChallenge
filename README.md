@@ -23,3 +23,6 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 ## Day 8
 https://leetcode.com/problems/remove-element/
+
+## Day 9
+https://leetcode.com/problems/search-insert-position/
