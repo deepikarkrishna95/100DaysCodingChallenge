@@ -29,4 +29,8 @@ https://leetcode.com/problems/search-insert-position/
 
 https://leetcode.com/problems/powx-n/
 
+## Day 10
+https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/
+
+
 
