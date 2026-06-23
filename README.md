@@ -1,4 +1,4 @@
-# 100DaysCodingChallenge
+# 100CodingChallenge
 
 ## Day 1
 https://leetcode.com/problems/two-sum/
